@@ -59,7 +59,8 @@ Certifications:
 ## 📫 Connect With Me
 
 - Email: dorsillakemunto@gmail.com 
-- GitHub: https://github.com/dorsillakemunto  
+- GitHub: https://github.com/dorsillakemunto
+- LinkedIn: https://www.linkedin.com/in/dorsilla-kemunto/  
 
 ---
 
